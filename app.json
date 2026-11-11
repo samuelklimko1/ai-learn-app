@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "AI Learn",
+    "slug": "ai-learn-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FFFFFF",
+    "splash": {
+      "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.example.ailearnapp"
+    }
+  }
+}
